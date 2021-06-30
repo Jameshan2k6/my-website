@@ -1,3 +1,4 @@
 # my-website
 Additional text
-Edit on example branch
+
+Updates made for Rebase
